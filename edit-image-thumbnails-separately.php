@@ -3,7 +3,7 @@
  * Edit Image Thumbnails Separately
  *
  * Plugin Name: Edit Image Thumbnails Separately
- * Plugin URI:  https://wordpress.org/plugins/
+ * Plugin URI:  https://wordpress.org/plugins/edit-image-thumbnails-separately/
  * Description: Re-enables editing of the thumbnail size of images separately.
  * Version:     1.0.0
  * Author:      WordPress Core Contributors
